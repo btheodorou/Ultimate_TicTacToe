@@ -1,4 +1,4 @@
-# Ultimate_TicTacToe
+# Ultimate Tic-Tac-Toe
 
 * Built Ultimate Tic-Tac-Toe game using Java that allows you to play against the computer (complete with three varying difficulty levels) or another player
 * Computer AI plays using Minimax algorithm with Alpha-Beta pruning (difficulty levels are implemented by controlling the depth of the search)
